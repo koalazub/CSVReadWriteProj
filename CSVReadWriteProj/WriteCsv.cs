@@ -20,7 +20,6 @@ namespace CSVReadWriteProj
             {
                 using (var file = new StreamWriter(filePath, true))
                 {
-                    //TODO sort through ID's and append to last in list
                     file.WriteLine(iD + "," + name + "," + age);
                 }
             }

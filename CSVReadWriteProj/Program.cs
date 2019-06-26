@@ -39,13 +39,12 @@ namespace CSVReadWriteProj
 
         private static void ReadOrWriteDecision()
         {
-            
             Console.WriteLine("Press 1 to search for a field");
             Console.WriteLine("Press 2 to input data");
-            string valueEntered = Console.ReadLine();
-            bool decisionMade = int.TryParse(valueEntered, out var decision);
+            var valueEntered = Console.ReadLine();
+            var decisionMade = int.TryParse(valueEntered, out var decision);
             if (!decisionMade) return;
-            
+
             Console.WriteLine(decision);
             switch (decision)
             {
@@ -57,7 +56,7 @@ namespace CSVReadWriteProj
                 case 2:
                     LoopDataEntry(true);
                     break;
-                
+
                 default:
                     Console.WriteLine("enter the values listed");
                     break;
