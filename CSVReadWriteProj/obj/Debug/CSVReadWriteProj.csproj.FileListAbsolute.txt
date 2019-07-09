@@ -1,0 +1,6 @@
+C:\Users\elali\RiderProjects\CSVReadWriteProj\CSVReadWriteProj\bin\Debug\CSVReadWriteProj.exe
+C:\Users\elali\RiderProjects\CSVReadWriteProj\CSVReadWriteProj\bin\Debug\CSVReadWriteProj.pdb
+C:\Users\elali\RiderProjects\CSVReadWriteProj\CSVReadWriteProj\obj\Debug\CSVReadWriteProj.csprojAssemblyReference.cache
+C:\Users\elali\RiderProjects\CSVReadWriteProj\CSVReadWriteProj\obj\Debug\CSVReadWriteProj.csproj.CoreCompileInputs.cache
+C:\Users\elali\RiderProjects\CSVReadWriteProj\CSVReadWriteProj\obj\Debug\CSVReadWriteProj.exe
+C:\Users\elali\RiderProjects\CSVReadWriteProj\CSVReadWriteProj\obj\Debug\CSVReadWriteProj.pdb

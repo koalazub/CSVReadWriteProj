@@ -7,6 +7,7 @@ namespace CSVReadWriteProj
     {
         private static string _filePath;
         private static string _inputString;
+        //magic numbered
         private static List<string> _dataInput = new List<string>(2);
 
         public static void Main(string[] args)
